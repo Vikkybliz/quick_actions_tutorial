@@ -2,7 +2,7 @@
 
 This project is for a youtube tutorial teaching how to add quick actions in your flutter app. 
 
--[Youtube Link](https://youtu.be/wLwQezGPaM8)
+- [Youtube Link](https://youtu.be/wLwQezGPaM8)
 
 ## Getting Started
 
